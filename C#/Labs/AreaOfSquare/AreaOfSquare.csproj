@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>AreaOfSquare</AssemblyName>
+    <RootNamespace>AreaOfSquare</RootNamespace>
+    <ApplicationIcon>box_orange_48.ico</ApplicationIcon>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\ExitDoor16np.png" LogicalName="AreaOfSquare.Assets.ExitDoor16np.png" />
+<EmbeddedResource Include="Assets\FormAreaOfSquare.ico" LogicalName="AreaOfSquare.Assets.FormAreaOfSquare.ico" />
+<EmbeddedResource Include="Assets\InfoRoundBlue16np.png" LogicalName="AreaOfSquare.Assets.InfoRoundBlue16np.png" />
+<EmbeddedResource Include="Assets\New_Blank_Document_16_n_p.png" LogicalName="AreaOfSquare.Assets.New_Blank_Document_16_n_p.png" />
+<EmbeddedResource Include="Assets\Open File or Folder 16 n p.png" LogicalName="AreaOfSquare.Assets.Open File or Folder 16 n p.png" />
+<EmbeddedResource Include="Assets\Save Blue 16 n p.png" LogicalName="AreaOfSquare.Assets.Save Blue 16 n p.png" />
+<EmbeddedResource Include="Assets\Superscript.png" LogicalName="AreaOfSquare.Assets.Superscript.png" />
+<EmbeddedResource Include="Assets\box_orange_128.png" LogicalName="AreaOfSquare.Assets.box_orange_128.png" />
+  </ItemGroup>
+</Project>

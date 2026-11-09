@@ -1,0 +1,10 @@
+
+CompileFlags:
+  Add: [-x, c++]
+
+---
+
+If:
+  Language: cpp
+CompileFlags:
+  Add: [-std=c++20]
